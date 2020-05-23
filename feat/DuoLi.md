@@ -1,0 +1,8 @@
+---
+Type: post
+Title: Popular for a Reason
+---
+Duolingo is a free with lite ads. It uses chunking and repetition to encode language to memory. This is useful for some tricky nuances of languages like French word-final irregularities or homophones. Flashcards are thrown out in favor of multiple guess and most input is text and voice, which stays easy and doesnt tax short term memory, but can patience. Learning experience is an easy game. Spaced Repitition Systems learn your mistakes and recast new questions from them but questions are typically repeated so frequently that your mind has to be elsewhere to make repeated errors. Duolingo's best feature is continuous free content. Grammar is taught implicitly by focusing on forms, ear training and translation.
+The program asks two or three lessons a day (5 minutes) minimum to keep up a streak and receive seratonin candy. Other gamified elements include, power-ups, different kinds of in-game currancies, badges, unlockables, gambles, and bonus skills as well as a high score ranking against your peers. You are able too connect with learners of other languages as well for messaging and correction.  In addition to the hundreds of 2-minute lessons, Duolingo also features short stories, leagues, friends and a large group of active users.
+Claims that 34-hours of Duolingo are equal to a semester of university language courses comes from a study of volunteers language learners, funded by Duolingo and carried out by independent researchers. Levels are broken down into lexical and situational units of 5 lessons.</p>
+							Spaced repitition makes for a slow, thourough gain.
