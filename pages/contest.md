@@ -3,10 +3,10 @@ If you'd like to review a language learning program, please mailto:growlroar@gma
 
 **guidelines**  
 Use the app at least 5 times in one week  
-Write a few paragraphs about it
-Include: details about the app 
-  - as well as your experience with it
-  - send a picture, or just a review
+Write a few paragraphs about it in plaintext format
+Include -details about the app 
+    - as well as your experience with it
+    - send a picture, if you'd like
  
 **example**
 If you're beyond elementary level in the language, of you don't like drag and drop, this app isn't for you. Otherwise you'll probably have fun with it. Its features supports a very neat and well designed word input device. You'll learn words by matching icon-like images with audio samples and writen words. I used it for Chinese, and you get to draw the characters on your touch screen. They overlay pictures of what they represent; fish, knife. It's really quite a fantastic way to learn beginner Chinese that unites phonological, visual and muscle memory.  
